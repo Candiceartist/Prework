@@ -19,9 +19,10 @@ nav {
 ul li {
      list-style: none; 
      display: inline-block;
-     padding: 0;
+     padding: 0 20px;
      font-family:Verdana, Geneva, Tahoma, sans-serif;
      line-height: 50px;
+     width: auto;
 }
 
 ul li a {
@@ -31,7 +32,9 @@ ul li a {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
     color:rgb(217, 43, 211);
-    padding: 0 20px:
+    padding: 0 40px;
+
+    
 } 
 
 ul li a:hover {
@@ -102,7 +105,7 @@ ol li {
      font-size: large;
      font-family: Verdana, Geneva, Tahoma, sans-serif;
      color:midnightblue;
-     line-height: 0px;
+     line-height:10px;
 }
 
 table, th, td {
